@@ -1,0 +1,13 @@
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\bin\Debug\netcoreapp3.1\Ejercicio_Promedio.exe
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\bin\Debug\netcoreapp3.1\Ejercicio_Promedio.deps.json
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\bin\Debug\netcoreapp3.1\Ejercicio_Promedio.runtimeconfig.json
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\bin\Debug\netcoreapp3.1\Ejercicio_Promedio.runtimeconfig.dev.json
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\bin\Debug\netcoreapp3.1\Ejercicio_Promedio.dll
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\bin\Debug\netcoreapp3.1\Ejercicio_Promedio.pdb
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\obj\Debug\netcoreapp3.1\Ejercicio_Promedio.csprojAssemblyReference.cache
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\obj\Debug\netcoreapp3.1\Ejercicio_Promedio.AssemblyInfoInputs.cache
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\obj\Debug\netcoreapp3.1\Ejercicio_Promedio.AssemblyInfo.cs
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\obj\Debug\netcoreapp3.1\Ejercicio_Promedio.csproj.CoreCompileInputs.cache
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\obj\Debug\netcoreapp3.1\Ejercicio_Promedio.dll
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\obj\Debug\netcoreapp3.1\Ejercicio_Promedio.pdb
+D:\Ejercicios Visual Estudios\Ejercicio_Promedio\Ejercicio_Promedio\obj\Debug\netcoreapp3.1\Ejercicio_Promedio.genruntimeconfig.cache
